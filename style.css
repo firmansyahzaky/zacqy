@@ -1,14 +1,14 @@
 h1 {
     text-align: center;
-    text-transform: uppercase;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: ;
-    text-shadow: 1px 1px 10px white;
+
+    font-family: 'Sacramento', cursive;
+   
 }   
+
 
 div {
     background-color: thistle;
-   
+
 }
 .img {
     display: flex;

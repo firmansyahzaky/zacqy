@@ -8,7 +8,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: url(web\ nikahan.png) ;
+    background: url(web.png) ;
 
     min-height: 100vh
 }
