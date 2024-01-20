@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: ;
+    text-shadow: 1px 1px 10px white;
+}   
+
+div {
+    background-color: thistle;
+   
+}
+.img {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+  a {
+    text-align: justify;
+}
+
+button {
+    background: yellow;
+}
